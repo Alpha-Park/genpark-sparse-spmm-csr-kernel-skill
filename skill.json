@@ -1,0 +1,15 @@
+{
+  "name": "genpark-sparse-spmm-csr-kernel-skill",
+  "version": "1.0.0",
+  "description": "Compressed Sparse Row (CSR) Sparse Matrix-Dense Matrix Multiplication (SpMM) acceleration kernel with row-pointer parallelism and load-balanced binning.",
+  "tags": [
+    "genpark-skill",
+    "agentic-ai",
+    "spmm",
+    "csr-matrix",
+    "sparse-computation",
+    "hpc-kernels"
+  ],
+  "entrypoint": "client.py",
+  "dependencies": []
+}
